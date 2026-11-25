@@ -1,0 +1,6 @@
+*.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
+learningnotes.md
+backup-alert-test.txt
